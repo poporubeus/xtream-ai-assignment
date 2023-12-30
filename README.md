@@ -203,4 +203,5 @@ Let's get cracking! 🍐💼🔍
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+1. Download the repository by git clone [https://github.com/poporubeus/xtream-ai-assignment.git](https://github.com/poporubeus/xtream-ai-assignment.git)
+2. Open files "Diamonds_assignment-Data_Analysis.ipynb" and "Diamonds_assignment-Prediction.ipynb".
