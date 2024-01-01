@@ -3,7 +3,7 @@
 # Introduction - Price of a diamond
 
 In this tutorial I've tested different Machine Learning models to approach a linear regression problem concerning the price of a diamond.
-The problem starts with a dataset that collects data from different diamond's features: *carat*, *cut*, *color*, *clarity*, *table*, *x*, *y*, *z* and *price*. Each of them hide an insight which I'd like to reveal by using different ML models and the main goal of the project is to make a regression of the price distribution.
+The problem starts with a dataset that collects data from different diamond's features: *carat*, *cut*, *color*, *clarity*, *depth*, *table*, *x*, *y*, *z* and *price*. Each of them hide an insight which I'd like to reveal by using different ML models and the main goal of the project is to make a regression of the price distribution.
 After a simple data analysis where we are able to identify the relationships between each data, we start by feeding different model that are evaluated subsequently.
 
 # ML regression
